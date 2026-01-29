@@ -1,19 +1,5 @@
 {
-    "name": "php-stubs/generator",
-    "description": "Generate stubs from any PHP code for IDE completion and static analysis.",
-    "type": "library",
-    "license": "MIT",
-    "keywords": [
-        "IDE",
-        "static analysis"
-    ],
-    "homepage": "https://github.com/php-stubs/generator",
-    "authors": [
-        {
-            "name": "Giaco Corsiglia",
-            "email": "GiacoCorsiglia@gmail.com"
-        }
-    ],
+    "name": "pavsolo/generator",
     "autoload": {
         "psr-4": {
             "StubsGenerator\\": "src/"
